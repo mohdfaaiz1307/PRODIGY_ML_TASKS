@@ -1,16 +1,16 @@
-Machine Learning Internship Projects - Prodigy Infotech
-Overview
+Machine Learning Internship Projects - Prodigy Infotech<br>
+Overview<br>
 This repository contains the machine learning projects I developed during my internship at Prodigy Infotech. The internship was aimed at enhancing practical understanding of machine learning and deep learning concepts through real-world tasks. Each project highlights the application of various algorithms and models to solve specific problems. Below are the details of the tasks and their implementations.
 
-Projects
-1. House Price Prediction using Linear Regression
-Objective: Predict house prices based on features like square footage, number of bedrooms, and number of bathrooms.
-Techniques: Linear regression, feature scaling, data visualization.
-Dataset: House price dataset (synthetic or sourced from a real estate dataset).
-Key Steps:
-Data preprocessing and exploration.
-Implementing linear regression.
-Evaluating model performance with RMSE and R² scores.
+Projects<br>
+1. House Price Prediction using Linear Regression<br>
+Objective: Predict house prices based on features like square footage, number of bedrooms, and number of bathrooms.<br>
+Techniques: Linear regression, feature scaling, data visualization.<br>
+Dataset: House price dataset (synthetic or sourced from a real estate dataset).<br>
+Key Steps:<br>
+Data preprocessing and exploration.<br>
+Implementing linear regression.<br>
+Evaluating model performance with RMSE and R² scores.<br>
 
 2. Customer Segmentation using K-Means Clustering
 Objective: Segment retail store customers based on their purchase history to identify customer groups for targeted marketing.
