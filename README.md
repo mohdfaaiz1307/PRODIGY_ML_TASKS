@@ -2,7 +2,7 @@
 ## Overview<br>
 This repository contains the machine learning projects I developed during my internship at Prodigy Infotech. The internship was aimed at enhancing practical understanding of machine learning and deep learning concepts through real-world tasks. Each project highlights the application of various algorithms and models to solve specific problems. Below are the details of the tasks and their implementations.
 <br>
-### Projects<br>
+## Projects<br>
 ### 1. House Price Prediction using Linear Regression<br>
 Objective: Predict house prices based on features like square footage, number of bedrooms, and number of bathrooms.<br>
 Techniques: Linear regression, feature scaling, data visualization.<br>
@@ -30,7 +30,6 @@ Data preprocessing and augmentation.<br>
 Building a CNN model with layers like Conv2D, MaxPooling, and Dense.<br>
 Evaluating model accuracy on test data.<br>
 Note: Originally tasked with implementing SVM, this project was adapted using CNN for improved image classification performance.<br>
-
 <br>
 ### 4. Hand Gesture Recognition for Volume Control<br>
 Objective: Develop a hand gesture recognition system that can detect and classify hand gestures for controlling volume.<br>
@@ -61,7 +60,6 @@ scikit-learn<br>
 tensorflow / keras<br>
 opencv-python<br>
 Install the required libraries using the following command:<br>
-
 <br>
 ### Dataset Information<br>
 Datasets used in these projects are either publicly available or synthetically created. You may find links or data generation scripts inside each project folder.<br>
